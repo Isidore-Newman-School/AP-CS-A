@@ -2,5 +2,5 @@
 
 Isidore Newman School's AP CS A (Java) Website
 
-[Syllabus](Syllabus.md)
+[Syllabus](Syllabus.md)  
 [Textbook](https://books.trinket.io/thinkjava/)
